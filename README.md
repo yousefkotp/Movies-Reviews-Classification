@@ -62,7 +62,7 @@ our data before used for classification:
 - Dropout is applied to the hidden layers of the network. The dropout rate can be specified while initializing the network. The dropout rate is the probability of a neuron to be dropped out. The dropout rate is set to 0.4 in this project.
 
 ## Model Evaluation
-- The model is able to classify the reviews with 93% accuracy on raw test data. On the other hand, the accuracy reached 90% when using the preprocessed data. This indicates that ot all preprocessing steps are necessary for the model to perform well.
+- The model is able to classify the reviews with 93% accuracy on raw test data. On the other hand, the accuracy reached 90% when using the preprocessed data. This indicates that not all preprocessing steps are necessary for the model to perform well.
 
 ## Results
 - The model's performance on the raw test set is as follows:
