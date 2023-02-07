@@ -67,9 +67,9 @@ our data before used for classification:
 ## Results
 - The model's performance on the raw test set is as follows:
     * Accuracy: 93%
-    * Precision: 90%
-    * Recall: 90%
-    * F1 Score: 90%
+    * Precision: 93%
+    * Recall: 93%
+    * F1 Score: 93%
 > Note: See [notebook](/Review_Classification.ipynb) for more details on the results.
 
 ## Contributers
