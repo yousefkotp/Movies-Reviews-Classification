@@ -66,10 +66,15 @@ our data before used for classification:
 
 ## Results
 - The model's performance on the raw test set is as follows:
-    * Accuracy: 93%
-    * Precision: 93%
-    * Recall: 93%
-    * F1 Score: 93%
+    * Accuracy: 93.6%
+    * Precision: 94.2%
+    * Recall: 92.92%
+    * F1 Score: 93.5%
+ 
+- The confusion matrix:
+
+![image](https://user-images.githubusercontent.com/41492875/218091822-64f96317-e683-4ec4-88df-3e65fd7136e2.png)
+
 > Note: See [notebook](/Review_Classification.ipynb) for more details on the results.
 
 ## Contributers
